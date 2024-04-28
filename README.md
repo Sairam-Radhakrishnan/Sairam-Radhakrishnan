@@ -20,6 +20,12 @@
 </p>
 
 
+![Sairam-Radhakrishnan's Stats](https://github-readme-stats.vercel.app/api?username=Sairam-Radhakrishnan&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
+![Sairam-Radhakrishnan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sairam-Radhakrishnan&theme=vue-dark&hide_border=true)
+
+![Sairam-Radhakrishnan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairam-Radhakrishnan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ![Sairam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sairam-Radhakrishnan&bg_color=000000&color=d7c3fe&line=a4c6bc&point=a98989&area=true&hide_border=true)
 
 <!---
