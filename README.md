@@ -11,8 +11,8 @@
 ⚡ Fun fact: I like Editing 
 
 <h3>I Code in</h3
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-<a  href="https://icons8.com/icon/13441/python">Python</a> icon by <a href="https://icons8.com">Icons8</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/rsairam2007"  target=”_blank”  > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rsairam2007" height="100" width="75" /></a>
