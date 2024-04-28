@@ -11,7 +11,7 @@
 ⚡ Fun fact: I like Editing 
 
 <h3>I Code in</h3
-![icons8-python-48](https://github.com/Sairam-Radhakrishnan/Sairam-Radhakrishnan/assets/156107694/ee6f0ae6-e031-4824-8dec-e761a366a159)
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
