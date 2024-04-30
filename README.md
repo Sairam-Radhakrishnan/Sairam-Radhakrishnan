@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/rsairam2007"  target=”_blank”  > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rsairam2007" height="100" width="75" /></a>
+<a href="https://www.hackerrank.com/profile/27sairam"  target=”_blank”  > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="27sairam" height="100" width="75" /></a>
 </p>
 
 
