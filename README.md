@@ -18,8 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/profile/27sairam"  target=”_blank”  > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="27sairam" height="100" width="75" /></a>
+<a href="https://www.hackerrank.com/profile/27sairam"  target=”_blank”  > <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="27sairam" height="100" width="75" /></a>
+ <a href="https://www.linkedin.com/in/radhakrishnansairam/"  target=”_blank”  > <img  src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin"  /></a>
 </p>
+
+
 
 
 ![Sairam-Radhakrishnan's Stats](https://github-readme-stats.vercel.app/api?username=Sairam-Radhakrishnan&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
