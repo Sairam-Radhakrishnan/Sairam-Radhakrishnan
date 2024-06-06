@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Web development. 
 
-💞️ I’m looking to collaborate on projects that allow me to express my passion for design and development
+💞️ I’m looking to collaborate on projects that allow me to express my passion for design and development. 
 
 😄 Pronouns: Techie
 
