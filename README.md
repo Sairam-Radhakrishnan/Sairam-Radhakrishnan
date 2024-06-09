@@ -12,7 +12,12 @@
 ⚡ Fun fact: I like Editing 
 
 <h3>I Code in</h3
-<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+<p> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="CSS width="60" height="60"/> 
+</a>          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="javascript" width="60" height="60"
+</a>
+</a>          <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png&color=000000" alt="HTML" width="60" height="60"/> 
+</a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS width="60" height="60"/> 
 </a>
 
 
@@ -37,6 +42,14 @@
 
 
 ![Sairam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sairam-Radhakrishnan&bg_color=000000&color=d7c3fe&line=a4c6bc&point=a98989&area=true&hide_border=true)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sairam-Radhakrishnan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sairam-Radhakrishnan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!---
 Sairam-Radhakrishnan/Sairam-Radhakrishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
