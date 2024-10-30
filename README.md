@@ -1,5 +1,9 @@
 👋 Hi, I’m Sairam.R
-
+<p align="left">
+  <a href="https://sairamr.my.canva.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=link&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</p>
 👀 I’m interested in web development, design, content creation, animation, and always looking to learn from others to upscale my skills.
 
 🌱 I’m currently learning Web development. 
@@ -29,7 +33,13 @@
 <p align="left">
 <a href="https://www.hackerrank.com/profile/27sairam"  target=”_blank”  > <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="27sairam" height="100" width="75" /></a>
  <a href="https://www.linkedin.com/in/radhakrishnansairam/"  target=”_blank”  > <img  src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin"  /></a>
+ <a href="https://www.behance.net/Sairamradhakrishnan" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" height="100" width="275" />
 </p>
+
+
+  
+
 
 
 
