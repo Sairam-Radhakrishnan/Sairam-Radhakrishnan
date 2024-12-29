@@ -6,7 +6,7 @@
 </p>
 👀 I’m interested in web development, design, content creation, animation, and always looking to learn from others to upscale my skills.
 
-🌱 I’m currently learning Web development. 
+🌱 I’m currently learning Python & Web development. 
 
 💞️ I’m looking to collaborate on projects that allow me to express my passion for design and development. 
 
